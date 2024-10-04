@@ -4,7 +4,7 @@ Assignment 1 description
 [Repository README link](../README.md)  
 [This README link](README.md)  
 
-COde snipped for changing states in the program:
+Code snipped for changing states in the program:
 ```
  # conditions for changing from START to WAITING and RUN states:
   if program_state == 'START': # or program_state == 'WAITING' or program_state == 'RUN':
