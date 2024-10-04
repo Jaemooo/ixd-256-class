@@ -15,7 +15,7 @@ COde snipped for changing states in the program:
       set_program_state('RUN')
 ```
 Image link example:
-![state diagram] (Diagram_JaemoSeong_WEEK3.jpg)
+![state diagram](Diagram_JaemoSeong_WEEK3.jpg)
 
 List example
 *item1
