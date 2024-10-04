@@ -1,8 +1,8 @@
 ## assignment 1
 Assignment 1 description
 
-[Repository README link](../README.md)
-[This README link](README.md)
+[Repository README link](../README.md)  
+[This README link](README.md)  
 
 COde snipped for changing states in the program:
 
