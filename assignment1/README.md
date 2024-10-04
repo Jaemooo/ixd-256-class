@@ -17,8 +17,8 @@ COde snipped for changing states in the program:
 Image link example:
 ![state diagram](Diagram_JaemoSeong_WEEK3.jpg)
 
-List example
-*item1
-*item2
-*item3
+List example  
+* item1
+* item2
+* item3
 
