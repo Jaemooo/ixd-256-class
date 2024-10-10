@@ -5,6 +5,8 @@ Assignment 1 description
 
 CLASSIC CAMERA WITH LIGHT
 
+![sketch](1st_Assignment_Sketch.jpg)
+
 # Firmware
 ```
  # When user took the picture, light will blink time like camera flash.
@@ -31,7 +33,7 @@ CLASSIC CAMERA WITH LIGHT
 # State Diagram
 
 blakskkskksksksskskkss:
-![state diagram](Diagram_JaemoSeong_WEEK3.jpg)
+![state diagram](Diagram_1st_Assignment.jpg)
 
 # Physical Components
 
