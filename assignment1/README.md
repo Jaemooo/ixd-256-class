@@ -1,14 +1,14 @@
 ## assignment 1
 Assignment 1 description
 
-#Introduction
+# Introduction
 
-CLASSIC CAMERA
+CLASSIC CAMERA WITH LIGHT
 
 [Repository README link](../README.md)  
 [This README link](README.md)  
 
-#Firmware
+# Firmware
 ```
  # When user took the picture, light will blink time like camrea flash.
 
@@ -31,16 +31,16 @@ CLASSIC CAMERA
     rgb.fill_color(0)
     output_pin.off()
 ```
-#State Diagram
+# State Diagram
 
 blakskkskksksksskskkss:
 ![state diagram](Diagram_JaemoSeong_WEEK3.jpg)
 
-#Physical Components
+# Physical Components
 
 Using LEGO kits, I built the classic camera and used coppers, light, resistor to make function.
 
-#Project Outcome
+# Project Outcome
 
 It was pretty fun start from beginning project. I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project:
 
