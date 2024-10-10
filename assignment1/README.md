@@ -5,12 +5,9 @@ Assignment 1 description
 
 CLASSIC CAMERA WITH LIGHT
 
-[Repository README link](../README.md)  
-[This README link](README.md)  
-
 # Firmware
 ```
- # When user took the picture, light will blink time like camrea flash.
+ # When user took the picture, light will blink time like camera flash.
 
    elif program_state == 'DONE':
     
