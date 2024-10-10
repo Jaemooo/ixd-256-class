@@ -3,7 +3,7 @@ Assignment 1 description
 
 #Introduction
 
-I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project.
+CLASSIC CAMERA
 
 [Repository README link](../README.md)  
 [This README link](README.md)  
@@ -42,11 +42,13 @@ Using LEGO kits, I built the classic camera and used coppers, light, resistor to
 
 #Project Outcome
 
+It was pretty fun start from beginning project. I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project.
 
 ![project photo](1st_Assignment_HW)
 
 
 Video
+https://drive.google.com/drive/folders/1HGnTw7oHCrzTg4h89gobelJjIQi-6_kc?usp=sharing
 * item1
 * item2
 * item3
