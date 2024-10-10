@@ -6,6 +6,13 @@ I sketched an ideation inspired by classic cameras. In traditional cameras, the 
 
 ![sketch](1st_Assignment_Sketch.jpg)
 
+# Hardware
+
+* Copper(INPUT)
+* One light(OUTPUT)
+* One resistor
+* Four wires
+
 # Firmware
 ```
  # When the user takes a picture(INPUT), the light will blink once(OUTPUT), like a camera flash.
