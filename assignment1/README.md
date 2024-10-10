@@ -6,6 +6,11 @@ I sketched an ideation inspired by classic cameras. In traditional cameras, the 
 
 ![sketch](1st_Assignment_Sketch.jpg)
 
+
+
+
+
+
 # Hardware
 
 * Copper(INPUT)
