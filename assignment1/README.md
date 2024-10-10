@@ -4,6 +4,8 @@
 
 I sketched an ideation inspired by classic cameras. In traditional cameras, the flash blinks once when a picture is taken. Based on this, I incorporated a similar function into my first project using a Lego camera.
 
+![ideation sketch](1st_Assignment_Sketch.jpg)
+
 # Hardware
 
 * Copper(INPUT)
