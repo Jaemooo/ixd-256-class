@@ -31,7 +31,7 @@ I sketched an ideation inspired by classic cameras. In traditional cameras, the 
 ```
 # State Diagram
 
-When the program is turned on, it enters a preparation mode (RGB Blue). When the user clicks and holds the camera handle for 1 second (RGB Green), the light will turn on (RGB Red). After 2 seconds, the light will turn off, and the program will close.
+When the program is turned on, it enters a preparation mode (RGB Blue). When the user clicks and holds the camera handle for 2 seconds (RGB Green), the light will turn on (RGB Red). After 1 second, the light will turn off, and the program will close.
 
 ![state diagram](Diagram_1st_Assignment.jpg)
 
