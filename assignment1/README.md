@@ -1,15 +1,14 @@
-## assignment 1
-Assignment 1 description
-
 # Introduction
 
-CLASSIC CAMERA WITH LIGHT
+"CLASSIC CAMERA"
+
+I sketched an ideation inspired by classic cameras. In traditional cameras, the flash blinks once when a picture is taken. Based on this, I incorporated a similar function into my first project using a Lego camera.
 
 ![sketch](1st_Assignment_Sketch.jpg)
 
 # Firmware
 ```
- # When user took the picture, light will blink time like camera flash.
+ # When the user takes a picture(INPUT), the light will blink once(OUTPUT), like a camera flash.
 
    elif program_state == 'DONE':
     
@@ -32,19 +31,19 @@ CLASSIC CAMERA WITH LIGHT
 ```
 # State Diagram
 
-blakskkskksksksskskkss:
+When the program is turned on, it enters a preparation mode (RGB Blue). When the user clicks and holds the camera handle for 1 second (RGB Green), the light will turn on (RGB Red). After 2 seconds, the light will turn off, and the program will close.
+
 ![state diagram](Diagram_1st_Assignment.jpg)
 
 # Physical Components
 
-Using LEGO kits, I built the classic camera and used coppers, light, resistor to make function.
+Using LEGO kits, I built a classic camera and incorporated copper wires, lights, and resistors to create its functionality.
 
 # Project Outcome
 
-It was pretty fun start from beginning project. I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project:
+It was pretty fun to start this project from the beginning. I aimed to turn the light on when the user takes a picture and turn it off when the user finishes. This function helps the user recognize whether the picture was successfully taken.
 
 ![project photo](1st_Assignment_HW1.jpg)
 
-
-Video
+# Video
 https://drive.google.com/drive/folders/1HGnTw7oHCrzTg4h89gobelJjIQi-6_kc?usp=sharing
