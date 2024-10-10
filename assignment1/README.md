@@ -11,6 +11,24 @@ I sketched an ideation inspired by classic cameras. In traditional cameras, the 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hardware
 
 * Copper(INPUT)
