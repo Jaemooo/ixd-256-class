@@ -43,7 +43,7 @@ Using LEGO kits, I built the classic camera and used coppers, light, resistor to
 #Project Outcome
 
 
-
+![project photo](1st_Assignment_HW)
 
 
 Video
