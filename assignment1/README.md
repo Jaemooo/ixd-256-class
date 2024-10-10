@@ -42,7 +42,7 @@ Using LEGO kits, I built the classic camera and used coppers, light, resistor to
 
 #Project Outcome
 
-It was pretty fun start from beginning project. I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project.
+It was pretty fun start from beginning project. I made a project inspired by classic camera flashing. When people use the classic camera, the flash will blink one time when they took the picture. By that, using lego camera, I bring similar functions to my first project:
 
 ![project photo](1st_Assignment_HW)
 
