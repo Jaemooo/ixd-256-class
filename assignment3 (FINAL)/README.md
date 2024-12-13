@@ -20,8 +20,13 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
 * Infrared Reflective Sensor Unit (Hand Detection)
 * RGB LED Lighting (Change Red to Green)
 
-<img src="hardware_wiring1.jpeg" width="300"> 
-<img src="hardware_wiring1.jpeg" width="300">
+<table>
+    <tr>
+        <td><img src="hardware_wiring1.jpeg" width="300"> </td>
+        <td><img src="hardware_wiring1.jpeg" width="300"></td>
+    </tr>
+</table>
+
 ![hardware wiring](hardware_wiring1.jpeg)
 ![hardware wiring2](hardware_wiring2.jpeg)
 
