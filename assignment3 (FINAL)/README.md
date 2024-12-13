@@ -23,7 +23,7 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
 <table border="0">
     <tr>
         <td><img src="hardware_wiring1.jpeg" width="300"> </td>
-        <td><img src="hardware_wiring1.jpeg" width="300"></td>
+        <td><img src="hardware_wiring2.jpeg" width="300"></td>
     </tr>
 </table>
 
