@@ -22,7 +22,6 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
 
 ![hardware wiring](hardware_wiring.jpeg)
 ![hardware wiring2](hardware_wiring2.jpeg)
-![ideation sketch](hardware_wiring2.jpeg)
 
 ### Firmware   
 
