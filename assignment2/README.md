@@ -4,7 +4,7 @@
 
 I sketched an idea inspired by a hammer punch game machine. Similar to how the score is determined by the force when people play the hammer punch game, this idea displays the score based on the speed of play.
 
-![ideation sketch](2nd_Assignment_Sketch.jpg)
+![ideation sketch](2nd_Sketch.jpeg)
 
 # Hardware
 
@@ -53,7 +53,7 @@ Using the MDF materials, I built a Hammer Punch Game Machine and incorporated an
 
 This project was exciting because I got to learn new coding skills, design, and build my own game machine. The kit was fun for users to play, with different numeric outcomes each time based on speed. Mixing Visual Studio Code software with hardware made for a unique learning experience!
 
-![project photo](2nd_Assignment_HW.jpg)
+![project photo](2nd_prototype.jpeg)
 
 # Video
 https://drive.google.com/file/d/14mjHQ9SXNlSNz6hUL8Yeqzj76L-96leI/view?usp=sharing
