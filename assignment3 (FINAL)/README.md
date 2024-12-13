@@ -212,9 +212,11 @@ def draw():
 ### Integrations   
 
 https://io.adafruit.com/Jaemooo/dashboards/button-dashboard
-http://127.0.0.1:3000/FINAL/index.html
 
 ![adafruit](component1.jpeg)
+
+http://127.0.0.1:3000/FINAL/index.html
+
 ![visual studio code](component2.jpeg)
 
 ### Enclosure / Mechanical Design   
