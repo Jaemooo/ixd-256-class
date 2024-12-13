@@ -27,9 +27,6 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
     </tr>
 </table>
 
-![hardware wiring](hardware_wiring1.jpeg)
-![hardware wiring2](hardware_wiring2.jpeg)
-
 ### Firmware   
 
 When the user places their hand inside the machine, the sensor (input) is triggered. This activates the servo kit 180 degrees (output) to dispense the candy with a sound effect (output). At the same time, the blinking red RGB light changes to green (output), which means it was successful, indicating success.
@@ -222,7 +219,7 @@ http://127.0.0.1:3000/FINAL/index.html
 
 ### Enclosure / Mechanical Design   
 
-![model1](mdf1.jpeg)
+![model1](mdf.jpeg)
 ![model2](mdf2.jpeg)
 ![model3](adobe_illustrator.jpeg)
 
