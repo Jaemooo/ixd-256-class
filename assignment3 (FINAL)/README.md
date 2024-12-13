@@ -4,7 +4,7 @@
 
 I sketched an idea for a candy machine inspired by automatic sensor hand sanitizer machines. The concept involves a sensor that activates to dispense candy when a hand is placed inside the machine.
 
-![ideation sketch](sketch.jpg)
+![ideation sketch](sketch.jpeg)
 
 ## Implementation   
 
@@ -20,7 +20,8 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
 * Infrared Reflective Sensor Unit (Hand Detection)
 * RGB LED Lighting (Change Red to Green)
 
-![hardware wiring](2nd_Assignment_Sketch.jpg)
+![hardware wiring](hardware_wiring.jpeg)
+![hardware wiring2](hardware_wiring2.jpeg)
 
 ### Firmware   
 
@@ -209,20 +210,20 @@ def draw():
 https://io.adafruit.com/Jaemooo/dashboards/button-dashboard
 http://127.0.0.1:3000/FINAL/index.html
 
-![adafruit](2nd_Assignment_Sketch.jpg)
-![visual studio code](2nd_Assignment_Sketch.jpg)
+![adafruit](component1.jpeg)
+![visual studio code](component2.jpeg)
 
 ### Enclosure / Mechanical Design   
 
-![model1](2nd_Assignment_Sketch.jpg)
-![model2](2nd_Assignment_Sketch.jpg)
+![model1](mdf1.jpeg)
+![model2](mdf2.jpeg)
+![model3](adobe_illustrator.jpeg)
 
 ## Project outcome  
 
 It was working well to dispense candy!
 
-![prototype1](2nd_Assignment_Sketch.jpg)
-![prototype2](2nd_Assignment_Sketch.jpg)
+![prototype1](prototype.jpeg)
 
 https://drive.google.com/file/d/1buEUCSz1CaMeQSQf1Fhq0LVSl9HcdCtF/view?usp=sharing
 
