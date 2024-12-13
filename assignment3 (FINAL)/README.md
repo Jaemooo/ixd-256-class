@@ -4,7 +4,7 @@
 
 I sketched an idea for a candy machine inspired by automatic sensor hand sanitizer machines. The concept involves a sensor that activates to dispense candy when a hand is placed inside the machine.
 
-![ideation sketch](2nd_Assignment_Sketch.jpg)
+![ideation sketch](sketch.jpg)
 
 ## Implementation   
 
@@ -218,6 +218,8 @@ http://127.0.0.1:3000/FINAL/index.html
 ![model2](2nd_Assignment_Sketch.jpg)
 
 ## Project outcome  
+
+It was working well to dispense candy!
 
 ![prototype1](2nd_Assignment_Sketch.jpg)
 ![prototype2](2nd_Assignment_Sketch.jpg)
