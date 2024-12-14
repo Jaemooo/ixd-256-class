@@ -168,6 +168,12 @@ while True:
             rgb_state = "on"
 ```
 
+### State Diagram
+
+![state diagram](diagram.jpeg)
+
+
+
 ### Software   
 
 Make a sound to ensure the candy is dropping and to make it more fun!
