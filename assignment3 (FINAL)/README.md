@@ -16,7 +16,7 @@ To control the machine, I will use a button from the ESP32 and an on/off interfa
 
 * ESP 32
 * Atom Board (Connector)
-* Servo Kit 180 Degree (Candy Drop)
+* Servo Kit 180° (Candy Drop)
 * Infrared Reflective Sensor Unit (Hand Detection)
 * RGB LED Lighting (Change Red to Green)
 
