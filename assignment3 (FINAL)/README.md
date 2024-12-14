@@ -8,9 +8,9 @@ I sketched an idea for a candy machine inspired by automatic sensor hand sanitiz
 
 ## Implementation   
 
-I plan to build the candy machine by laser-cutting 1/4 MDF board and assembling the pieces. Inside, a servo kit with 180-degree rotation will be used to release candy. A sensor will be placed below the hand-insertion area to activate the machine. Lastly, the RGB light is placed inside the hand-insertion area to provide illumination.
+I built the candy machine by laser-cutting 1/4 MDF board and assembling the pieces. Inside, I used a servo kit with 180-degree rotation to release candy. A sensor was placed below the hand-insertion area to activate the machine. Lastly, I placed an RGB light inside the hand-insertion area to provide illumination.
 
-To control the machine, I will use a button from the ESP32 and an on/off interface created with Adafruit. Additionally, I will use Visual Studio Code to add sound effects that play whenever candy is dispensed.
+To control the machine, I used a button from the ESP32 and an on/off interface created with Adafruit. Additionally, I used Visual Studio Code to add sound effects that play whenever candy is dispensed.
 
 ### Hardware
 
