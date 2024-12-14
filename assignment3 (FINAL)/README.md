@@ -170,6 +170,8 @@ while True:
 
 ### State Diagram
 
+When the machine is turned on using either the ESP32 button or the Adafruit on/off button, the red light will start blinking. When the infrared reflective sensor unit is activated, the servo kit will rotate 90° down and then 90° up, accompanied by a green light and sound. This process will repeat as long as the machine remains on.
+
 ![state diagram](diagram.jpeg)
 
 ### Software   
