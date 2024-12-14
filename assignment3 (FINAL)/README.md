@@ -228,6 +228,7 @@ http://127.0.0.1:3000/FINAL/index.html
 ### Enclosure / Mechanical Design   
 
 1/4 MDF
+
 ![model1](mdf.jpeg)
 ![model2](mdf2.jpeg)
 
